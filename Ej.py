@@ -5,5 +5,6 @@ cadena2 = cadena.split()
 cadena3 = cadena2[::-1]
 for cont in cadena3:
     print(cont)
+print("Terminado")
 
 ### Edwin Santana Barcenas
